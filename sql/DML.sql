@@ -1,6 +1,5 @@
 -- DML
 
-
 INSERT INTO members (name, email, dateOfBirth) VALUES
 ('Alex Rivera', 'alex.rivera@test.com', '2003-04-16'),
 ('Sam Patil', 'sam.patil@test.com', '2000-07-23'),

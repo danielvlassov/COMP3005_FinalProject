@@ -1,7 +1,7 @@
 # COMP3005 Final Project - Health and Fitness Club Management System
 Daniel Vlassov 101222428
 
-Youtube Link: TBD
+Youtube Link: https://youtu.be/BRRGirGcOMU
 
 ## Report
 The Project_Report has a PDF with all my diagrams and its explanations as outlined in the specs.
